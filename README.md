@@ -1,7 +1,7 @@
 # newsApp
 
 This is a news app.By default this app will show top headlines for UK country.
-User can search news by keyword. Once search term is entered into search box use has to hit enter to search.
+User can search news by keyword. Once search term is entered into search box user has to hit enter.
 
 
 newsApp is root folder which is a node application. It has newsClient folder which has client changes. newsClient is react application.
