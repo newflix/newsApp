@@ -27,7 +27,7 @@ user will be redirected to localhost:3000, user will see top headlines of countr
 
 Test run:
 
-There are two sample testcases are added for components
+There are two sample testcases added for react components
 tests can be run with 
 npm run test
 
