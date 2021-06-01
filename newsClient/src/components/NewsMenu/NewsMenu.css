@@ -1,0 +1,98 @@
+.newsmenu{
+    display:flex;
+    flex-direction: row;
+    margin: 50px;
+    width:170px;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color:orangered;
+    font-size: 20px;
+    background-color: transparent;
+    text-decoration: mediumvioletred;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .topStories{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-style: groove;
+    font: black;
+}
+
+.world{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-style: groove;
+    font: black;
+    justify-content: center;
+}
+.entertainment{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-style: groove;
+    font: black;
+}
+.technology{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-style: groove;
+    font: black;
+}
+.business{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-style: groove;
+    font: black;
+}
+.health{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-style: groove;
+    font: black;
+}
+.sports{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-style: groove;
+    font: black;
+}
+
+
+.topStories a img{
+      padding:3px;
+  }
+.entertainment a img{
+    padding:3px;
+}
+.world a img{
+    padding:3px;
+}
+.business a img{
+    padding:3px;
+}
+.technology a img{
+    padding:3px;
+}
+.health a img{
+    padding:3px;
+}
+.sports a img{
+    padding:3px;
+}

@@ -1,0 +1,18 @@
+.channelTitle{
+    display:flex;
+    margin:50px;
+}
+
+.uk{
+    font-size: 40px;
+    background-color: rgb(92, 156, 156);
+    color: whitesmoke;
+    padding:5px;
+}
+
+.news{
+    font-size: 40px;
+    background-color:skyblue;
+    color:blue;
+    padding:5px;
+}
